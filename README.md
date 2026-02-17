@@ -1,3 +1,11 @@
+# 📄 Detailed Project Report
+
+Complete stage-wise documentation including synthesis, floorplanning, placement, CTS, routing, timing closure and final signoff analysis:
+
+ [Download Full Project Report (PDF)] (docs/ThotlaUmesh_RTL_to_GDSII_28nm_Project_Report.pdf.pdf)
+
+
+
 #  Tile Block – Complete RTL to GDSII Implementation (28nm)
 
 ##  Author
