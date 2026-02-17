@@ -90,8 +90,20 @@ Design successfully achieved timing closure and physical verification at 28nm.
 - Setup & hold timing closure
 - Power grid debugging
 - Full RTL-to-GDSII flow execution
+#  Design Snapshots
 
----
+## Floorplan
+![Floorplan](docs/floorplan.png)
+
+## Congestion Map
+![Congestion](docs/Congestion.png)
+
+## CTS View
+![CTS](docs/Congestion CTS.png)
+
+## cell density
+![cell density](docs/celldensity.png)
+
 
 #  Repository Structure
 
